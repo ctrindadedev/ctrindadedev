@@ -1,4 +1,4 @@
-###Caio Trindade
+### Caio Trindade
 
 - :mortar_board: Bachelor of Information Technology - UFRN
 - 🌱 I'm currently Python

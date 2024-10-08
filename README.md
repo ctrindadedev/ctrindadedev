@@ -1,7 +1,7 @@
 ### Caio Trindade
 
 - :mortar_board: Bachelor of Information Technology - UFRN
-- 🌱 I'm currently learning Python and C
+- 🌱 I'm currently studying  Python and C
 - 👨🏾‍💻 I'm working to be  a Python developer focused on AI and automation
 - 💻 I'm Coding in  C, Python,
 

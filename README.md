@@ -2,7 +2,7 @@
 
 - :mortar_board: Bachelor of Information Technology - UFRN
 - 🌱 I'm currently studying  Python and C
-- 👨🏾‍💻 I'm working to be  a Python developer focused on AI and automation
+- 👨🏾‍💻 I'm working to be  a Python developer focused on Data Analysis, AI and Automation Projects 
 - 💻 I'm Coding in  C, Python,
 
 <div align="center">

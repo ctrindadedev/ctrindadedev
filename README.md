@@ -13,9 +13,9 @@
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrindadedev&layout=compact&langs_count=7&theme=holi"/>   
   </a>
 </div>
-<div>
- <img style="align-self: right" align="center" alt="Caio-C" height="30" width="40" align="right" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img style="align-self: right" align="center" alt="Caio-Python" height="30" width="40" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: flex; justify-content: flex-end;">
+  <img alt="Caio-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ###

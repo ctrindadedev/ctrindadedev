@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/ctrindadedev">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ctrindadedev&show_icons=true&rank_icon=github&theme=transparent"/>
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=ctrindadedev&show_icons=true&rank_icon=github&theme=holi"/>
   </a>
   <a href="https://github.com/ctrindadedev">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrindadedev&layout=compact&langs_count=7&theme=transparent"/>   
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrindadedev&layout=compact&langs_count=7&theme=holi"/>   
   </a>
 </div>
 <div>

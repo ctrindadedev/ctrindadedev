@@ -7,10 +7,7 @@
 
 <div>
   <a href="https://github.com/ctrindadedev">
-      <img height="150px" align="center"
-  </a>
-  <a href="https://github.com/ctrindadedev">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=ctrindadedev&show_icons=true&rank_icon=github&theme=holi"/>
+      <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrindadedev&theme=dracula"/>  
   </a>
 </div>
 

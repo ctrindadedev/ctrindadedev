@@ -1,7 +1,7 @@
 ### Caio Trindade
 
 - :mortar_board: Bachelor of Information Technology - UFRN
-- 🌱 I'm currently studying C, JS
+- 🌱 I'm currently studying C++, JavaScript
 - 👨🏾‍💻 I'm working to be a FullStack Developer 
 - 💻 I'm Coding in  C/C++, Python, JavaScript
 

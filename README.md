@@ -1,7 +1,6 @@
-### Hello, i'm Caio Trindade a undergraduate student  pursuing a Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN)
+### Hello, i'm Caio Trindade
 
-- :mortar_board: Bachelor of Information Technology - UFRN
-- 🌱 I'm currently studying JavaScript
+- :mortar_board: Undergraduate student  pursuing a Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN)
 - 👨🏾‍💻 I'm working to be a FullStack Developer 
 - 💻 I'm Coding in  JavaScript, C/C++ and Python
 - 🧠 I really like to solving complex problems and improve  my logical thinking

@@ -5,7 +5,6 @@
 - 👨🏾‍💻 I'm working to be a FullStack Developer 
 - 💻 I'm Coding in  JavaScript, C/C++ and Python
 - 🧠 I really like to solving complex problems and improve  my logical thinking
----
 
 **What I'm doing?**
 
@@ -30,7 +29,6 @@
   <img alt="Python" align="center"  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- ---
 ### Tecnologies and developament tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align= "center" alt="bootstrap" height="60" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" " />
@@ -44,13 +42,12 @@
   <img align="center" alt="Ubuntu" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
- ---
-
  ### Highlighted Projects
 
 - [Réplica do Spotify](https://github.com/ctrindadedev/Spotify_Clone) - Spotify clone with React.js, Express and Node.js
 
  ---
+### Network
 
 <div>
   <a href="mailto:caiomedtrindade@gmail.com"><img  height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>

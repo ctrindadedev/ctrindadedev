@@ -2,7 +2,7 @@
 
 - :mortar_board: Undergraduate student  pursuing a Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN)
 - 👨🏾‍💻 I'm working to be a FullStack Developer 
-- 💻 I'm Coding in  JavaScript, C/C++ and Python
+- 💻 I'm Coding in  Java, TypeScript and Python
 - 🧠 I really like to solving complex problems and improve  my logical thinking
 
 **What I'm doing?**

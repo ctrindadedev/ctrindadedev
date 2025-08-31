@@ -21,23 +21,27 @@
   
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
- <img align="center" alt="js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img alt="C" align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img alt="Java" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="TypeScript" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Python" align="center"  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C++" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
 
 ### Tecnologies and developament tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
-  <img align= "center" alt="bootstrap" height="60" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" " />
-  <img align="center" alt="node" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="react" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="nextjs" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="spring" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
+  <img align="center" alt="node" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img alt="NestJS" align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img alt="Swagger" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
   <img align="center" alt="postgress" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="mongodb" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="insomnia" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg">
-  <img align="center" alt="vite" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
+  <img alt="TailwindCSS" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Git" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Docker" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="insomnia" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Ubuntu" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 

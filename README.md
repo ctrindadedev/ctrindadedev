@@ -24,7 +24,7 @@ export const Me = () => {
   } = experience
 
   const currentWork = {
-    role: 'Research Assistant',
+    role: 'Research Software Developer',
     techs: [
       ReactJS, Django, Python, MediaPipe Pose, Pandas
      ],

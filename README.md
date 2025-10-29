@@ -1,7 +1,7 @@
 ### Hello, i'm Caio de Medeiros Trindade and i'm a FullStack Developer
 
 - :mortar_board: Undergraduate student  pursuing a Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN)
-- 👨🏾‍💻 I'm studing to be a better FullStack Developer 
+- 👨🏾‍💻 I'm studying to be a better FullStack Developer 
 - 💻 I'm coding in Java, TypeScript and Python
 - 🧠 I really like to solving complex problems and improve  my logical thinking
   

@@ -24,15 +24,15 @@ export const Me = () => {
   } = experience
 
   const currentWork = {
-    role: 'Research Software Developer',
+    roles: [ 'Research Software Developer', 'Full Stack Developer'],
     techs: [
-      ReactJS, Django, Python, MediaPipe Pose, Pandas
+      ReactJS, Java, SpringBoot, React Native, Django, Python, MediaPipe Pose,
      ],
   }
   
   const totalExperience = {
     time: '1 year',
-    techs: [...currentWork.techs, Spring Boot, Angular, NextJS, NodeJS],
+    techs: [...currentWork.techs, Angular, NextJS, NodeJS],
   }
 
   return { currentWork, totalExperience }

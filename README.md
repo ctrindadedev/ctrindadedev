@@ -38,8 +38,14 @@ export const Me = () => {
   return { currentWork, totalExperience }
 }
 ``` 
+   ## Highlighted Projects
+- [E-commerce made from scratch](https://psalms.site/)
+- [CS50x Final Project](https://github.com/ctrindadedev/CS50-FinalProject)
+- [File Compressor](https://github.com/DevlTz/HuffmanCompressor)
+- [Check-in System](https://github.com/ctrindadedev/Sistema_CheckIN)
 
-  ## What I Use 🔥
+
+## What I Use 🔥
 
 ### Techs 🌟
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -75,12 +81,6 @@ export const Me = () => {
 ![ESLint](https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
-
-   ## Highlighted Projects
-
-- [CS50x Final Project](https://github.com/ctrindadedev/CS50-FinalProject)
-- [File Compressor](https://github.com/DevlTz/HuffmanCompressor)
-- [E-commerce](psalms.site)
 
  ---
   ## Network

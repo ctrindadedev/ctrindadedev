@@ -20,7 +20,7 @@ import { experience } from 'ctrindadedev'
 export const Me = () => {
   const { 
     TypeScript, Java, Python, Go, ReactJS, NextJS,
-    NodeJS, NestJS, SpringBoot,
+    ReactNative, NodeJS, NestJS, SpringBoot,
   } = experience
 
   const currentWork = {

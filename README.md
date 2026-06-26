@@ -26,7 +26,7 @@ export const Me = () => {
   const currentWork = {
     roles: [ 'Junior Full Stack Developer'],
     techs: [
-      ReactJS, NextJS, Java, SpringBoot, NodeJS, React Native
+      ReactJS, NextJS, Java, SpringBoot, NodeJS, ReactNative
      ],
   }
   

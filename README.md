@@ -38,7 +38,6 @@ export const Me = () => {
 }
 ``` 
    ## Highlighted Projects
-- [E-commerce made from scratch](https://psalms.site/)
 - [File Compressor](https://github.com/DevlTz/HuffmanCompressor)
 - [Check-in System](https://github.com/ctrindadedev/Sistema_CheckIN)
 
